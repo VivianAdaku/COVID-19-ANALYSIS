@@ -10,8 +10,11 @@ The analysis to be carried out is to answer the following questions;
 3.	Which Pharmacies are prescribing Commercial Products?
 4.	What are the pharmacies with Telehealth Availabilities?
 5.	Which cities have PAP Site?
+
+   
 TOOLS
 The tool used is Microsoft Power BI for analysis and Power Query for data cleaning.
+
 DATA CLEANING AND TRANSFORMATION
 The following are the different cleaning procedures;
 •	Checked for duplicates and removed blanks.
